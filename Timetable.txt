@@ -1,0 +1,17 @@
+\Semester 1\
+Sunday
+Monday
+1000$1200$\Semester 2\4. Class 1000\
+Tuesday
+1400$1600$\Semester 2\3. Class 2000\
+1600$1700$\Semester 2\2. Class 3000\
+1700$1900$\Semester 2\4. Class 1000\
+Wednesday
+1000$1100$\Semester 2\3. Class 2000\
+Thursday
+0800$1000$\Semester 2\1. Class 1000\
+1000$1200$\Semester 2\4. Class 1000\
+1300$1400$\Semester 2\2. Class 2000\
+Friday
+1600$1800$\Semester 2\2. Class 2000\
+Saturday
